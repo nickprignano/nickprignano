@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickprignano
 - 👀 I’m interested in VDI
-- 🌱 I’m currently learning Tanium
+- 🌱 I’m currently learning Nerdio
 - 💞️ I’m looking to collaborate on world peace
 - 📫 You can reach me on Twitter @nprignano
 
