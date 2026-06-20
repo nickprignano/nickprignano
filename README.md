@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nickprignano
 - 👀 I’m interested in AGI
-- 🌱 I’m currently learning Nerdio
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on loving kindness
 - 📫 You can reach me on Twitter @pr1gnan0
 
