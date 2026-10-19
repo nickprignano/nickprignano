@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nickprignano
-- 👀 I’m interested in building
+- 👋 Hi, I’m Nick Prignano
+- 👀 I live in Chicagoland
 - 🌱 I’m currently learning everything i possibly can
-- 📫 You can reach me on LinkedIn (nickprignano) and X the everything app (@pr1gnan0)
+- 📫 You can reach me on LinkedIn (nickprignano) and my website https://prignano.ai
 
 <!---
 nickprignano/nickprignano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
