@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nick Prignano
 - 👀 I live in Chicagoland
-- 🌱 I’m currently learning everything i possibly can
+- 🌱 I’m currently building avd-ops
 - 📫 You can reach me via my website https://prignano.ai
 
 <!---
